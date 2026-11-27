@@ -1,0 +1,13 @@
+{
+  "domain": "kamoer_fxstp",
+  "name": "Kamoer FX-STP (local)",
+  "codeowners": [
+    "@irwinthetapemeasure"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/irwinthetapemeasure/ha-kamoer-fxstp",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/irwinthetapemeasure/ha-kamoer-fxstp/issues",
+  "requirements": [],
+  "version": "0.2.0"
+}
