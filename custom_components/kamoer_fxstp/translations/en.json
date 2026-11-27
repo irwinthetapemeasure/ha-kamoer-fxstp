@@ -1,5 +1,11 @@
 {
   "config": {
+    "step": {
+      "user": {
+        "title": "Kamoer FX-STP (local)",
+        "description": "This integration is set up in configuration.yaml with your pump's captured keys. See the README."
+      }
+    },
     "abort": {
       "yaml_only": "This integration is set up in configuration.yaml (the pump's keys are captured, not typed). See the README.",
       "already_configured": "This pump is already configured."
